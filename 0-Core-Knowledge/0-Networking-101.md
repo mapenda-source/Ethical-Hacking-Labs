@@ -1,6 +1,3 @@
-Absolument ! Voici la traduction en français du document :
-
-```
 # Notions de base sur le réseautage
 > ⚠ Notions de base sur le réseautage est une introduction simple aux concepts réseau les plus importants pour le piratage éthique. C'est un vaste sujet et il est recommandé d'apprendre à partir de différentes sources telles que des cours, des livres et des certifications comme [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) ou [CompTIA Network+](https://www.comptia.org/certifications/network). Il existe également une tonne de **formation gratuite**, je vous recommande de [consulter cette liste](https://freetraining.dfirdiva.com/free-networking-training) plus tard.
 
